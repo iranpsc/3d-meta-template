@@ -1,5 +1,5 @@
 
-# Component-Next
+# 3d-meta-template
 
 3D.irpsc.com Template Repository - A comprehensive collection of 3D design templates that are easy to use and customize. This repository includes a variety of ready-made templates for different projects, including architecture, gaming, animation, and industrial modeling. Utilize these templates to effortlessly bring your ideas to life with greater speed and efficiency. Unleash your creativity and take your projects to the next level with the best tools at your disposal!
 
